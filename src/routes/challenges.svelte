@@ -22,7 +22,7 @@
 
 <h2>Challenges</h2>
 
-<section class="three">
+<section>
   <h3>
     Item #3: Make a component with an element that changes value with the input
   </h3>
@@ -33,7 +33,7 @@
   <p>Your favorite movie is {movie}</p>
 </section>
 
-<section class="four">
+<section>
   <h3>Item #4: Make a component that changes with range slider input</h3>
   <label>
     Pick the worst year so far:
